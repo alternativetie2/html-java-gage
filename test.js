@@ -47,10 +47,10 @@ const styles = `
  let my_element = document.createElement("h1");
 let my_span = document.createElement('span');
 let my_element2 = document.createElement("h2");
-let my_element3 = document.createElement("textarea");
+let my_element3 = document.createElement("p");
 
 my_element2.innerText = "Where the fuck will this go";
-my_element3.innerText = "Enter Paragraph";
+my_element3.innerText = "Enter ENTER DA DAM PARAPHGFKIDJF";
 
 my_span.innerText = "Hello World, This will be my frist attempt at creating anything of substance with java script.";
 
