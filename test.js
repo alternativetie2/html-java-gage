@@ -1,8 +1,3 @@
-
-
-
-
-
 const styles = `
   body {
     text-align: center;
