@@ -59,7 +59,7 @@ my_element3.innerText = "Enter Paragraph";
 
 my_span.innerText = "Hello World, This will be my frist attempt at creating anything of substance with java script.";
 
-my_element.innerText = "Ryan Cavaletto ";
+my_element.innerText = "Testing shiii";
 
 mainText.appendChild(my_element);
 mainText.appendChild(my_span);
